@@ -1,1 +1,1 @@
-texto1 en la rama mod1 siguiente commit
+texto1 en la rama mod2 siguiente commit
